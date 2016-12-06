@@ -11,8 +11,11 @@ Go detail my process by clicking on the links follow
 * *Auto layout* `(In process)`
 * Data persistence & core data `(To do)`
 * Working with REST and Web Requests `(To do)`
-   
-Note:
 
+### More
+* Go to [a very simple ios project for getting started](https://github.com/qilytquang/ios-hello-world)
+*(hello world ios)*
+   
+##### Note:
 > See the [Markdown syntax guide](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html)
 > for making README.md
