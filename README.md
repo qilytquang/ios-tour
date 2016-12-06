@@ -7,8 +7,8 @@ Go detail my process by clicking on the links follow
 ## Main content and my process
 
 * **Setting up development environment** `(Done)`
-* *[Swift language](https://github.com/qilytquang/swift-language)* `(Done)`
-* *Auto layout* `(In process)`
+* **[Swift language](https://github.com/qilytquang/swift-language)** `(Done)`
+* *[Auto layout](https://github.com/qilytquang/auto-layout)* `(In process)`
 * Data persistence & core data `(To do)`
 * Working with REST and Web Requests `(To do)`
 
