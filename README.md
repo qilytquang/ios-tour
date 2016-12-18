@@ -10,7 +10,7 @@ Go detail my process by clicking on the links follow
 * **[Swift language](https://github.com/qilytquang/swift-language)** `(Done)`
 * **[Auto layout](https://github.com/qilytquang/auto-layout)** `(Done)`
 * **[Data persistence & core data](https://github.com/qilytquang/core-data)** `(Done)`
-* *Working with REST and Web Requests* `(In progress)`
+* *[Working with REST and Web Requests](https://github.com/qilytquang/rest)* `(In progress)`
 
 ### More
 * Go to [a very simple ios project for getting started](https://github.com/qilytquang/ios-hello-world)
